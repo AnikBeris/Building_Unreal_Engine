@@ -1,7 +1,7 @@
 @echo off
 rem === Настраиваемые пути ===
 set UE_PATH=C:/UE_Source/UE_5.6
-set PROJECT_PATH=I:/Nextcloud/Village/Villag/Village.uproject
+set PROJECT_PATH=I:/Nextcloud/Village/Village.uproject
 set BUILD_OUTPUT=D:/BUILDs
 
 rem === Автоматически формируем пути ===
