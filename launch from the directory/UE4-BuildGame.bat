@@ -13,7 +13,7 @@ if "%PROJECT_PATH%"=="" (
 )
 
 rem === Настраиваем пути ===
-set UE_PATH=C:/UE_Source/UE_5.6
+set UE_PATH=C:/UE_Source/UE_4.27
 set BUILD_OUTPUT=D:/BUILDs
 
 rem === Автоматически формируем пути ===
